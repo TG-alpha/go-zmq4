@@ -1,3 +1,5 @@
+Forked by Patrick (p.huebler@tgalpha.de) on 17th of October 2023 to secure zmq4 go dependency access
+
 A Go interface to [ZeroMQ](http://www.zeromq.org/) version 4.
 
 
